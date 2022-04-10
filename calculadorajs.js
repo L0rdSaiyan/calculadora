@@ -22,7 +22,7 @@ function clean(){
      document.getElementById('res').innerHTML = result.substring(0, result.length -1);
 
 }
-//FUNÇÃO 
+//FUNÇÃO PARA REALIZAR O CÁLCULO
    function calc(){
 
       var result2 = document.getElementById('res').innerHTML;
